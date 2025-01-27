@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cakee/static/css/main.2b5cb992.css",
+    "main.js": "/Cakee/static/js/main.4cce6851.js",
+    "static/js/453.d8846cae.chunk.js": "/Cakee/static/js/453.d8846cae.chunk.js",
+    "static/media/h6.png": "/Cakee/static/media/h6.4fa327d03c7fe2da6935.png",
+    "static/media/cake.png": "/Cakee/static/media/cake.9aed6a27b3369af20cac.png",
+    "static/media/cck.png": "/Cakee/static/media/cck.f36469162c4b8f3adb4d.png",
+    "static/media/f4.png": "/Cakee/static/media/f4.87fa1f4a00478c70fe89.png",
+    "static/media/f1.png": "/Cakee/static/media/f1.0cc958393227220d8803.png",
+    "static/media/f2.png": "/Cakee/static/media/f2.e4f5079b986a7afabb8b.png",
+    "static/media/f3.png": "/Cakee/static/media/f3.dfbc0a70019f83a907fe.png",
+    "index.html": "/Cakee/index.html",
+    "main.2b5cb992.css.map": "/Cakee/static/css/main.2b5cb992.css.map",
+    "main.4cce6851.js.map": "/Cakee/static/js/main.4cce6851.js.map",
+    "453.d8846cae.chunk.js.map": "/Cakee/static/js/453.d8846cae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b5cb992.css",
+    "static/js/main.4cce6851.js"
+  ]
+}
