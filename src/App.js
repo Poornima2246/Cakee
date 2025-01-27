@@ -13,7 +13,7 @@ import ProductDetails from "./Components/ProductDetails";
 
 function App() {
   return (
-    <BrowserRouter basename="/Cakees">
+    <BrowserRouter basename="/Cakee">
       <Nav />
       <Routes>
         {/* Main Home Page */}
