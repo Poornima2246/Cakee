@@ -182,7 +182,7 @@ import React, { useState } from "react";
 import axios from "axios";
 
 function Addpage() {
-  const url = "http://localhost:4000";
+  const url = "https://cakes-backend-xgbw.onrender.com";
   const [formData, setFormData] = useState({
     mainImage: null,
     addImage1: null,
