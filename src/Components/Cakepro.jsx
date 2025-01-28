@@ -101,7 +101,7 @@ function Cakepro() {
     const fetchData = async () => {
       try {
         console.log("Fetching cakes...");
-        const response = await axios.get("https://cakes-backend-xgbw.onrender.com/api/dessert/list");
+        const response = await axios.get("http://localhost:4000/api/dessert/list");
         console.log("Response data:", response.data);
         setCakes(response.data.data); // Ensure this matches API response
         setLoading(false);
@@ -138,7 +138,7 @@ function Cakepro() {
             >
               <div className="aspect-w-16 aspect-h-10 overflow-hidden">
                 <img
-                  src={`https://cakes-backend-xgbw.onrender.com/upload/${item.mainImage}`}
+                  src={`http://localhost:4000/upload/${item.mainImage}`}
                   alt={item.name}
                   className="card-img hover:scale-110 transition-all duration-500"
                   loading="lazy"
