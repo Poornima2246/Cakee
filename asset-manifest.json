@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cakee/static/css/main.2b5cb992.css",
-    "main.js": "/Cakee/static/js/main.69631a62.js",
+    "main.js": "/Cakee/static/js/main.fda5c00a.js",
     "static/js/453.d8846cae.chunk.js": "/Cakee/static/js/453.d8846cae.chunk.js",
     "static/media/h6.png": "/Cakee/static/media/h6.4fa327d03c7fe2da6935.png",
     "static/media/cake.png": "/Cakee/static/media/cake.9aed6a27b3369af20cac.png",
@@ -12,11 +12,11 @@
     "static/media/f3.png": "/Cakee/static/media/f3.dfbc0a70019f83a907fe.png",
     "index.html": "/Cakee/index.html",
     "main.2b5cb992.css.map": "/Cakee/static/css/main.2b5cb992.css.map",
-    "main.69631a62.js.map": "/Cakee/static/js/main.69631a62.js.map",
+    "main.fda5c00a.js.map": "/Cakee/static/js/main.fda5c00a.js.map",
     "453.d8846cae.chunk.js.map": "/Cakee/static/js/453.d8846cae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b5cb992.css",
-    "static/js/main.69631a62.js"
+    "static/js/main.fda5c00a.js"
   ]
 }
